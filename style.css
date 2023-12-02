@@ -1,3 +1,17 @@
-h1{
-    text-align: center;
+*{ 
+    background-color: black;
 }
+
+h1 ,p{
+    text-align: center;
+    font-family: comic sans ms;
+
+}
+h1{
+    color: aqua;
+}
+
+p{
+    color: aliceblue;
+}
+
